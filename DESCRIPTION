@@ -1,0 +1,18 @@
+Package: ingrowth
+Title: Imputing Ingrowth in Permanent Sample Plots
+Version: 1.0
+Authors@R: 
+    person("Oscar", "García", , "garcia@dasometrics.net", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8995-1341"))
+Description: Imputation of presence and size of trees not measured due to a
+  minimum size threshold in even-aged forest permanent sample plots.
+  Ref.: Garcia, O. (2021) "Imputing Ingrowth in Even-aged Permanent Sample
+  Plots". Mathematical and Computational Forestry & Natural-Resource
+  Sciences (MCFNS) (to appear).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
