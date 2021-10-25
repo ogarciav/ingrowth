@@ -1,12 +1,13 @@
 
 # ingrowth
+## *R* software for ingrowth imputation
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ingrowth is to perform imputation for trees not measured due to a
+The goal of *ingrowth* is to perform imputation for trees not measured due to a
   minimum size threshold in even-aged forest permanent sample plots.
-  This mini-package contains a single function, `ingrowth()`, in addition to
+  The *R* mini-package contains a single function, `ingrowth()`, in addition to
   documentation and test data.
   
 ### Installation
@@ -16,7 +17,7 @@ You can install the package like so:
 ``` r
 devtools::install_github("ogarciav/ingrowth")
 ```
-Alternatively, you can simply download just the main function `ingrowth.R`.
+Alternatively, you can simply download just the main function *R/ingrowth.R*.
 
 ### Reference
 
