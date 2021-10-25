@@ -14,6 +14,14 @@ García, O. (2021)"Imputing Ingrowth in Even-aged Permanent
 Sample Plots". \emph{Mathematical and Computational Forestry
 & Natural-Resource Sciences (MCFNS)} (to appear)
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ogarciav/ingrowth}
+  \item Report bugs at \url{https://github.com/ogarciav/ingrowth/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Oscar García \email{garcia@dasometrics.net} (\href{https://orcid.org/0000-0002-8995-1341}{ORCID})
 

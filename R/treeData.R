@@ -1,6 +1,6 @@
 #' Test tree data set
 #'
-#' Tree records for 3 permanent sample plots.
+#' Tree records from 3 permanent sample plots.
 #'
 #' @format A data frame with 1743 rows and 8 variables:
 #' \describe{

@@ -15,7 +15,7 @@ A data frame with 3 rows and 2 variables:
 plotData
 }
 \description{
-Plot-level information for 3 permanent sample plots.
+Plot-level information from 3 permanent sample plots.
 }
 \seealso{
 \code{\link{treeData}}

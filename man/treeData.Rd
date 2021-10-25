@@ -19,7 +19,7 @@ A data frame with 1743 rows and 8 variables:
 treeData
 }
 \description{
-Tree records for 3 permanent sample plots.
+Tree records from 3 permanent sample plots.
 }
 \seealso{
 \code{\link{plotData}}

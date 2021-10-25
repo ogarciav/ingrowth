@@ -46,12 +46,12 @@ ingrowth basal area is a large fraction of the total.
 }
 \examples{
  withIngrowth <- ingrowth(treeData, plotData, plot="PlotId",
-                                    meas = "MeasId", tree = "TreeId",
-                                    diam = "DBH", thresh = "Thresh")
+                          meas = "MeasId", tree = "TreeId",
+                          diam = "DBH", thresh = "Thresh")
 
 }
 \references{
-#' @references García, O. (2021)"Imputing Ingrowth in Even-aged Permanent
+García, O. (2021)"Imputing Ingrowth in Even-aged Permanent
 Sample Plots". \emph{Mathematical and Computational Forestry
 & Natural-Resource Sciences (MCFNS)} (to appear)
 }
