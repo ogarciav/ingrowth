@@ -15,6 +15,7 @@ The goal of *ingrowth* is to perform imputation for trees not measured due to a
 You can install the package like so:
 
 ``` r
+install.packages("devtools")
 devtools::install_github("ogarciav/ingrowth")
 ```
 Alternatively, you can simply download just the main function *R/ingrowth.R*.
@@ -23,5 +24,5 @@ Alternatively, you can simply download just the main function *R/ingrowth.R*.
 
 García, O. (2021) "Imputing Ingrowth in Even-aged Permanent Sample
   Plots". *Mathematical and Computational Forestry & Natural-Resource
-  Sciences (MCFNS)* (to appear).
+  Sciences (MCFNS), 13*(2): 1--4. [PDF](http://mcfns.net/index.php/Journal/article/view/13.5/2021.5)
 

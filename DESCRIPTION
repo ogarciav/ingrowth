@@ -8,7 +8,7 @@ Description: Imputation of presence and size of trees not measured due to a
   minimum size threshold in even-aged forest permanent sample plots.
   Ref.: Garcia, O. (2021) "Imputing Ingrowth in Even-aged Permanent Sample
   Plots". Mathematical and Computational Forestry & Natural-Resource
-  Sciences (MCFNS) (to appear).
+  Sciences (MCFNS), 13(2): 1-14.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
